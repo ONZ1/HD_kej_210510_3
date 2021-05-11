@@ -24,4 +24,6 @@ void main() {
 	*/
 
 	printf("%s", ptr);
+
+	fgetc(stdin);
 }
